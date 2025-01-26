@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Emission",
+    "description": "Identifikasi sumber polusi dan rancang strategi pengurangan",
+    "icon": "/assets/emission.svg"
+  },
+  {
+    "title": "Vegetation",
+    "description": "Serap karbon, tingkatkan kualitas udara dan dukung keanekaragaman hayati",
+    "icon": "/assets/vegetation.svg"
+  },
+  {
+    "title": "Land Cover",
+    "description": "Pahami penggunaan lahan dan identifikasi yang perlu dilindungi atau dikembangkan",
+    "icon": "/assets/landCover.svg"
+  }
+]

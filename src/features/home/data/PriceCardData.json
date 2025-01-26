@@ -1,0 +1,43 @@
+[
+  {
+    "type": "Individual",
+    "description": "cocok untuk keperluan pribadi anda",
+    "price": {
+      "amount": 10000,
+      "currency": "IDR",
+      "frequency": "bulan"
+    },
+    "features": [
+      "Akses data pada Peta Hijau",
+      "Pamerkan hasil anda pada blog tersedia"
+    ],
+    "buttonText": "Mulai"
+  },
+  {
+    "type": "Organisasi",
+    "description": "cocok untuk keperluan perusahaan dan proyek organisasi anda",
+    "price": {
+      "amount": 300000,
+      "currency": "IDR",
+      "frequency": "tahun"
+    },
+    "features": ["Akses semua fitur dari individual", "Kolaborasi real-time"],
+    "buttonText": "Mulai",
+    "badge": "Paling diminati"
+  },
+  {
+    "type": "Kustomisasi",
+    "description": "cocok untuk menyesuaikan dengan kebutuhan perusahaan anda",
+    "price": {
+      "amount": null,
+      "currency": null,
+      "frequency": null
+    },
+    "features": [
+      "Akses semua fitur Organisasi",
+      "Tempat kolaborasi privat",
+      "Jadi pertama yang mencoba fitur baru kami"
+    ],
+    "buttonText": "Contact Us"
+  }
+]
